@@ -2,7 +2,7 @@
 
 Neste projeto o desafio foi de criar uma cópia do jogo do dinossauro, famoso no Chrome por nos entreter quando estamos sem conexão. 
 
-![screenshot](img\example.png?raw=true "screenshot")
+![screenshot](https://github.com/JM-2/Dino-Game-DIO/blob/master/img/example.png?raw=true "screenshot")
 
 Atividade realizada para o Bootcamp **GFT START_UNI 2021 #1** da **Digital Innovation One**.
 
