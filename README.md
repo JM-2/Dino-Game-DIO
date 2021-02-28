@@ -15,6 +15,4 @@ Atividade realizada para o Bootcamp **GFT START_UNI 2021 #1** da **Digital Innov
 Foi  abordado de maneira simples diversos conceitos introdutórios importantes para programação na web como tags básicas de HTML, manipulação de eventos, funções e manipulação de elementos HTML usando JavaScript, estilização e animações básicas com CSS.
 
 
-
 ### 🚀 Digital Innovation One - GFT START_UNI 2021 #1 🚀
-
